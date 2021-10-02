@@ -1,0 +1,5 @@
+Cytron KEYWORD1
+send_dummy_bit KEYWORD2
+clockwise KEYWORD2
+anti_clockwise KEYWORD2
+brake KEYWORD2
